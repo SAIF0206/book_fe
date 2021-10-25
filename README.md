@@ -1,7 +1,8 @@
 Font end Code
 
-1. Run first this
-.
+Pre-req:
+  1. Please run the XML https://github.com/SAIF0206/XML-Data
+  2. Please run the Backend https://github.com/SAIF0206/typescript_BE/tree/main/TypeScript
 
 Install the Dependencies Next, from the project folder, install the dependencies:
 
