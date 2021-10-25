@@ -1,3 +1,19 @@
+Font end Code
+
+1. Run first this
+.
+
+Install the Dependencies Next, from the project folder, install the dependencies:
+
+npm i
+
+run the coe using npm run server
+
+
+
+
+---------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
